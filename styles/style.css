@@ -130,6 +130,8 @@ body {
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 25px;
+        flex-wrap: wrap;
 
     }
 
